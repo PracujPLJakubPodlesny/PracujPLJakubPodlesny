@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**PracujPLJakubPodlesny/PracujPLJakubPodlesny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img height="20" alt="c#" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/c_sharp.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/net.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/net_core.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/dapper.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/grapql.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/postman.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/vs.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/vsc.png"></code>
+<code><img height="20" alt="net" src="https://github.com/PracujPLJakubPodlesny/PracujPLJakubPodlesny/blob/main/assets/rider.png"></code>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
